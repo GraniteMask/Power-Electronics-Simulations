@@ -19,4 +19,6 @@ Please find the respective solutions in the code section above.
 
 7. Obtain and present the simulation results of a power converter which provides negative output across the load. The specifications are: Vin=48V DC, Vo=(-36V), P0=72W, f=50kHz. Indicate the voltage and current ripple values that you have assumed for computing L and C.
 
-8.  
+8. Obtain and present the simulation results of a power converter which is used in residential UPS. The specifications are: Vin=24V, DC, V0 = 24V, 50Hz, Load = 250W at 0.8 pf.
+
+9.  
