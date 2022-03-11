@@ -21,4 +21,4 @@ Please find the respective solutions in the code section above.
 
 8. Obtain and present the simulation results of a power converter which is used in residential UPS. The specifications are: Vin=24V, DC, V0 = 24V, 50Hz, Load = 250W at 0.8 pf.
 
-9.  
+9. Obtain and present the simulation results of a power converter which is used in variable frequency drives. The specifications are: Vin=400V, DC, V0 = 400V, 50Hz, Load = 1500W. Simulate for both the operating modes of switch.
