@@ -1,6 +1,8 @@
 # Power-Electronics-Simulations
 A brief repository of some of my simulations in the domain of Power Electronics. All Simulations are done using MATLAB and Simulink.
 
+***NOTE: You need have simulink, simscape and simscape electrical installed as add-ons before you can run the codes in your system***
+
 ## Questions -
 
 Please find the respective solutions in the code section above.
